@@ -1,0 +1,370 @@
+/* CAREER BANNER RESPONSIVE*/
+@media only screen and (max-width: 650px){
+  .career-banner .headliner{
+    width:90% !important;
+    position: relative !important;
+    left:0px !important;
+  }
+}
+@media only screen and (max-width: 560px){
+  .career-banner .headliner{
+   top: 230px !important;}
+  .headliner{
+    height:220px !important;
+  }
+}
+@media only screen and (max-width: 560px){
+  .career-banner .headliner{
+   top: 250px !important;
+   padding:1em !important;}
+  .headliner{
+    height:205px !important;
+  }
+}
+
+/* FAQ BANNER RESPONSIVE*/
+@media only screen and (max-width: 650px){
+  .faq-banner .headliner{
+    width:90% !important;
+    position: relative !important;
+    left:0px !important;
+  }
+}
+@media only screen and (max-width: 560px){
+  .faq-banner .headliner{
+   top: 230px !important;}
+  .headliner{
+    height:220px !important;
+  }
+}
+@media only screen and (max-width: 560px){
+  .faq-banner .headliner{
+   top: 250px !important;
+   padding:1em !important;}
+  .headliner{
+    height:205px !important;
+  }
+}
+
+/* GIFT CARD BANNER RESPONSIVE*/
+@media only screen and (max-width: 650px){
+  .gcard-banner .headliner{
+    width:90% !important;
+    position: relative !important;
+    left:0px !important;
+  }
+}
+@media only screen and (max-width: 560px){
+  .gcard-banner .headliner{
+   top: 230px !important;}
+  .headliner{
+    height:220px !important;
+  }
+}
+@media only screen and (max-width: 560px){
+  .gcard-banner .headliner{
+   top: 250px !important;
+   padding:1em !important;}
+  .headliner{
+    height:205px !important;
+  }
+}
+
+
+/*SEARCH FORM STYLE */
+.search-form {
+    margin-bottom: 2em;
+}
+
+input.search-text {
+    color: #222;
+    position: relative;
+    z-index: 5;
+    -webkit-transition: z-index 0.8s, width 0.5s, background 0.3s ease, border 0.3s;
+    transition: z-index 0.8s, width 0.5s, background 0.3s ease, border 0.3s;
+    height: 45px;
+    margin: 0;
+    padding: 5px 0 5px 40px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIGhlaWdodD0iNTEycHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxwYXRoIGQ9Ik01MDMuODY2LDQ3Ny45NzRMMzYwLjk1OCwzMzUuMDUyYzI4LjcyNS0zNC41NDQsNDYuMDE3LTc4LjkxMiw0Ni4wMTctMTI3LjMzNiAgYzAtMTEwLjA4NC04OS4yMjctMTk5LjMxMi0xOTkuMzEyLTE5OS4zMTJDOTcuNTk5LDguNDAzLDguMzUxLDk3LjYzMSw4LjM1MSwyMDcuNzE1YzAsMTEwLjA2NCw4OS4yNDgsMTk5LjMxMiwxOTkuMzEyLDE5OS4zMTIgIGM0OC40MzUsMCw5Mi43OTItMTcuMjkyLDEyNy4zMzYtNDYuMDE3bDE0Mi45MDgsMTQyLjkyMkw1MDMuODY2LDQ3Ny45NzR6IE0yOS4zMzEsMjA3LjcxNWMwLTk4LjMzNCw3OS45ODctMTc4LjMzMiwxNzguMzMyLTE3OC4zMzIgIGM5OC4zMjUsMCwxNzguMzMyLDc5Ljk5OCwxNzguMzMyLDE3OC4zMzJzLTgwLjAwNywxNzguMzMyLTE3OC4zMzIsMTc4LjMzMkMxMDkuMzE4LDM4Ni4wNDcsMjkuMzMxLDMwNi4wNSwyOS4zMzEsMjA3LjcxNXoiIGZpbGw9IiMzNzQwNEQiLz48L3N2Zz4=) no-repeat left 9px center transparent;
+    background-size: 24px;
+    z-index: 3;
+    width: auto;
+    border: 1px solid #666;
+    background-color: white;
+    outline: none;
+    cursor: auto;
+    padding-right: 10px;
+}
+
+
+
+input.search-submit {
+    position: relative;
+    z-index: 4;
+    top: 17px;
+    left: 49px;
+    height: 45px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    background: none;
+}
+
+input.search-text::-webkit-search-cancel-button {
+    cursor: pointer;
+}
+
+/* FAQ */
+
+.faq-banner {
+  background-image: url(../images/faq-banner.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 466px;
+  position:relative;
+}
+
+.faq-banner .headliner{
+  background-color: rgba(0, 0, 0, 0.49);
+  filter: none !important;
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  padding: 2em;
+  color: #fff;
+  width: 600px;
+}
+
+.col-regular {
+  padding: 1em;
+}
+
+.accordion a {
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  padding: 1rem 3rem 1rem 1rem;
+  color: #7288a2;
+  font-size: 1rem;
+  font-weight: 300;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+
+.accordion a:hover,
+.accordion a:hover::after {
+  cursor: pointer;
+  color: #03b5d2;
+}
+
+.accordion a:hover::after {
+  border: 1px solid #03b5d2;
+}
+
+.accordion a.active {
+  color: #03b5d2;
+  border-bottom: 1px solid #03b5d2;
+}
+
+.accordion a::after {
+  font-family: 'Ionicons';
+  content: '\f218';
+  position: absolute;
+  float: right;
+  right: 1rem;
+  font-size: 1rem;
+  color: #7288a2;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #7288a2;
+  text-align: center;
+}
+
+.accordion a.active::after {
+  font-family: 'Ionicons';
+  content: '\f209';
+  color: #03b5d2;
+  border: 1px solid #03b5d2;
+}
+
+.accordion .content {
+  opacity: 0;
+  padding: 0 1rem;
+  max-height: 0;
+  border-bottom: 1px solid #e5e5e5;
+  overflow: hidden;
+  clear: both;
+  -webkit-transition: all 0.2s ease 0.15s;
+  -o-transition: all 0.2s ease 0.15s;
+  transition: all 0.2s ease 0.15s;
+}
+
+.accordion .content p {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.accordion .content.active {
+  opacity: 1;
+  padding: 1rem;
+  background-color: #f8f8f8;
+  max-height: 100%;
+  -webkit-transition: all 0.35s ease 0.15s;
+  -o-transition: all 0.35s ease 0.15s;
+  transition: all 0.35s ease 0.15s;
+}
+
+.faq_cat {
+  background-color: #f8f8f8 !important;
+}
+
+.faq_cat:hover {
+  background-color: #d05061 !important;
+}
+
+.faq_cat:hover a{
+  color: #fefefe !important;
+}
+
+.faq_help {
+  padding-top: 0.5em !important;
+}
+
+
+
+
+/* Gift Card Admin */
+
+.gcard_mail {
+  word-wrap: break-word;
+}
+
+/* Gift Card Public */
+
+.gcard-banner {
+  background-image: url(../images/gcard-banner.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 466px;
+  position:relative;
+}
+
+.gcard-banner .headliner{
+  background-color: rgba(0, 0, 0, 0.49);
+  filter: none !important;
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  padding: 2em;
+  color: #fff;
+  width: 600px;
+}
+
+.gc-thumb {
+  opacity: 0.8;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 5px 10px #888888;
+}
+
+.gc-thumb:hover {
+  opacity: 1;
+  border: 2px solid #FED456;
+}
+
+.gc-div {
+  padding: 1em 0;
+}
+
+/*GIFT CARD FORM*/
+
+/*inputs*/
+#gcard-form input[type="text"],#gcard-form input[type="number"], #gcard-form textarea {
+  padding: 15px;
+  color: #2C3E50;
+}
+/*buttons*/
+#gcard-form .actionbutton {
+	width: 100px;
+	background: #27AE60;
+	fontweight: bold;
+	color: white;
+	border: 0 none;
+	borderradius: 1px;
+	cursor: pointer;
+	padding: 10px 5px;
+	margin: 10px 5px;
+}
+#gcard-form .actionbutton:hover, #gcard-form .actionbutton:focus {
+	boxshadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+
+canvas#giftcard-temp{
+  display:none;
+  margin:1em auto
+}
+
+
+
+/*CAREER*/
+.career-banner {
+  background-image: url(../images/career-banner.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 466px;
+  position:relative;
+}
+
+.career-banner .headliner{
+  background-color: rgba(0, 0, 0, 0.49);
+  filter: none !important;
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  padding: 2em;
+  color: #fff;
+  width: 600px;
+}
+
+.quote-box {
+  font-style: italic
+}
+
+.quote-author {
+  font-family: 'Montserrat',sans-serif;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+.career-icon {
+  display: block;
+  padding: 0.25em;
+  margin: 1em;
+  font-size: 0.8em;
+}
